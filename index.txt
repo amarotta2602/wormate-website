@@ -1,0 +1,10 @@
+Accueil : Cette page servira de point d'entrée principal de votre site.
+
+Service de transport : Cette section présentera les différents services de transport que vous proposez. Vous pouvez détailler les types de transport que vous offrez, tels que le transport de marchandises, le transport de personnes, le transport spécialisé, etc.
+
+Logistique : Cette section mettra en valeur vos services de logistique. Vous pouvez y expliquer comment vous aidez vos clients à gérer leurs chaînes d'approvisionnement, à optimiser les opérations de stockage et de distribution, etc.
+
+À propos : Cette page sera consacrée à votre entreprise. Vous pourrez y décrire votre histoire, vos valeurs, votre équipe et tout autre élément pertinent qui permettra aux visiteurs de mieux comprendre votre entreprise.
+
+Contact : Cette section fournira les informations de contact pour que les visiteurs puissent vous joindre. Vous pouvez inclure un formulaire de contact, une adresse e-mail, un numéro de téléphone, etc…
+
